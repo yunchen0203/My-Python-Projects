@@ -20,7 +20,7 @@
 * **條件判斷 (If-Else)**: 判斷學號是否存在於名單中。
 * **例外處理 (Try-Except)**: 防止輸入錯誤導致程式中斷。
 
-#### 流程圖
+#### 📐 流程圖
 <img width="6108" height="3920" alt="messageImage_1776926951694" src="https://github.com/user-attachments/assets/b4b54e70-fa8e-4092-a2b3-f337a45a0868" />
 
 ---
